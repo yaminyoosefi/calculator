@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    font-size: 64px;
+    background-color: black;
+    width:450px;
+    margin:0 auto;
+    padding: 30px 10px;
+}
+.btn {
+    color:#fff;
+    padding:20px;
+    text-align: center;
+    display: inline-block;
+    font-size:22px;
+    margin:4px 2px;
+    border-radius: 50%;
+    border:none;
+    background-color:green; 
+    width:70px;   
+}
+.btn-silver {
+    background-color: silver;
+    color: black;
+  }
+ .btn-orange {
+    background-color: orange;
+  }
+  .btn-zero {
+      width:140px;
+  }
+  .item-header {
+      color:#fff;
+      font-size:60px;
+  }
